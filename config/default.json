@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://maimeearai:maimeearai@maimeearai-liodn.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myscrettoken"
+}
